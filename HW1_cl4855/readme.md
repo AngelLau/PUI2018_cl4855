@@ -32,3 +32,4 @@ And the screenshot of my terminal shows this series of commands and their output
 
 ## Assignment 2 Reproducible research
 
+I upload the HW1_3.ipynb to the repository.
