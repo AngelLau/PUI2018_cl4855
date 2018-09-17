@@ -26,6 +26,7 @@ I save the content and quit the nano then type:
 ```pui2018```
 
 ```pwd```
+
 And the screenshot of my terminal shows this series of commands and their output:
 ![alt text](https://github.com/AngelLau/PUI2018_cl4855/blob/master/image/pui%201.jpg)
 
