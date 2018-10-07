@@ -1,5 +1,8 @@
 # Assignment 2: Literature choices of statistical tests
 
+## Scope of hm5 assignment 2
+In this assginment we choose 3 tests of statistical analyses and go to web page of the journal PLOS ONE to search for articles that use those tests.Put the name of my tests in the search and choose a paper that uses the test we selected. Read the relevant portions of the paper and identify what are the Dependent Variables (DV), Independent Variables (IV), and, if applicable, control variables, how many they are, and what type they are (categorical, continuous...).
+
 ## Table
 |**Statistical Analyses**|**IV(s)**|**IV type(s)**|**DV(s)**|**DV type(s)**|**Control Var**|**Control Var type**|**Question to be answered**|**H0**|**alpha**|**link to paper**|
 |:--------------:|:--------------|:--------------|:---------------|:---------------|:---------------|:--------------- |:------------------|:----------:|:-----------:|:------------|
