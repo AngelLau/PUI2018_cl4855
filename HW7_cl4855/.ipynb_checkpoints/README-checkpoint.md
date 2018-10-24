@@ -1,0 +1,1 @@
+I do most of the work except for asking Tanya's help with the legend position. And Rohund also told me to use fisher_jenks for the extra credit 1 part.
