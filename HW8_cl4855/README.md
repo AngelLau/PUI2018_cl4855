@@ -9,4 +9,4 @@ I chose the Dog licensing dataset from NYC Open data and sorted the top 5 dogs b
 
 ## Assignment 2
 
-Authorea link: [teamwork](https://www.authorea.com/users/249362/articles/335433-hw8-asssignment-2)
+Authorea link: [Citibike Project](https://www.authorea.com/users/249362/articles/335433-hw8-asssignment-2)
